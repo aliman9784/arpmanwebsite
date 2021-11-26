@@ -10,20 +10,6 @@ body {
     padding: 10px;
 }
 
-nav {
-    display: flex;
-    justify-content: space-between;
-}
-
-nav h1 {
-    margin: 0;
-}
-
-nav a {
-    color: white;
-    text-decoration: none;
-    background: #36cca2;
-}
 
 input,
 textarea {
