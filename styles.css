@@ -6,8 +6,8 @@ body {
     background: #eee;
     font-family: 'Roboto';
     color: #444;
-    margin: 50px auto;
-    padding: 5px;
+    margin: 100px auto;
+    padding: 10px;
 }
 
 nav {
@@ -23,8 +23,6 @@ nav a {
     color: white;
     text-decoration: none;
     background: #36cca2;
-    padding: 10px;
-    border-radius: 10px;
 }
 
 input,
