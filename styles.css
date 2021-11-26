@@ -2,6 +2,24 @@
 
 /* base styles */
 
+body {
+    background: #eee;
+    font-family: 'Roboto';
+    color: #444;
+    margin: 100px auto;
+    padding: 10px;
+}
+
+
+input,
+textarea {
+    display: block;
+    margin: 16px 0;
+    padding: 6px 10px;
+    width: 100%;
+    border: 1px solid #ddd;
+    font-family: 'Roboto';
+}
 
 /* post list */
 
@@ -10,6 +28,7 @@
     background: white;
     border-radius: 10px;
     margin: 20px 0;
+}
 
 .post {
     color: #36cca2;
