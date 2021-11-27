@@ -3,9 +3,9 @@
 /* base styles */
 
 body {
-    background: rgb(54, 12, 243);
+    background: rgb(255, 255, 255);
     font-family: 'Roboto';
-    color: #444;
+    color: rgb(0, 0, 0);
     margin: 100px auto;
     padding: 10px;
 }
@@ -25,7 +25,7 @@ textarea {
 
 .post {
     padding: 16px;
-    background: white;
+    background: rgb(211, 27, 27);
     border-radius: 10px;
     margin: 20px 0;
 }
