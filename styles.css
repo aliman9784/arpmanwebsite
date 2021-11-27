@@ -3,7 +3,7 @@
 /* base styles */
 
 body {
-    background: #eee;
+    background: rgb(238, 238, 238);
     font-family: 'Roboto';
     color: #444;
     margin: 100px auto;
